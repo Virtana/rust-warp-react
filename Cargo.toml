@@ -1,0 +1,7 @@
+[package]
+name = "rust-warp-react"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+warp = { version = "0.3", default-features = false }
