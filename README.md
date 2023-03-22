@@ -1,5 +1,7 @@
 # rust-warp-react
 
+A small proof of concept of how simple it is to create a web app with a rust (warp) backend and a react frontend.
+
 Project tracking: https://github.com/orgs/Virtana/projects/2/views/2
 
 ## Development Manual
